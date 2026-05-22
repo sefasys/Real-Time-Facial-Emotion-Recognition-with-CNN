@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">😊 Facial Emotion Recognition with CNN</h1>
+  <h1 align="center"> Facial Emotion Recognition with CNN</h1>
   <p align="center">
     A real-time facial emotion detection system using a custom Convolutional Neural Network trained on balanced, augmented image data — with live webcam inference.
   </p>
