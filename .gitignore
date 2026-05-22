@@ -1,0 +1,56 @@
+# ====================
+#  Python
+# ====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ====================
+#  Virtual Environment
+# ====================
+venv/
+env/
+.venv/
+
+# ====================
+#  Dataset (large — download via Kaggle link in README)
+# ====================
+Data/
+Processed_Data/
+
+# ====================
+#  Trained Model (large binary — retrain locally)
+# ====================
+*.h5
+*.keras
+*.pb
+saved_model/
+
+# ====================
+#  Training Outputs (generated at runtime)
+# ====================
+Training_Results/
+
+# ====================
+#  IDE / Editor
+# ====================
+.idea/
+.vscode/
+*.swp
+*~
+
+# ====================
+#  macOS
+# ====================
+.DS_Store
+
+# ====================
+#  Jupyter
+# ====================
+.ipynb_checkpoints/
+
+# ====================
+#  Logs
+# ====================
+*.log
