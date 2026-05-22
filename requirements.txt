@@ -1,0 +1,16 @@
+# Core Deep Learning
+tensorflow>=2.12.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Data & Visualization
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# ML Utilities
+scikit-learn>=1.1.0
+
+# Progress Bar
+tqdm>=4.64.0
